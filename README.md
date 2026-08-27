@@ -8,7 +8,6 @@ An interactive Power BI dashboard developed to analyze and visualize COVID-19 da
 
 - Power BI
 - Power Query
-- DAX
 - Excel/CSV
 
 ## Features
@@ -21,7 +20,7 @@ An interactive Power BI dashboard developed to analyze and visualize COVID-19 da
 - KPI cards for displaying key statistics
 - Charts and graphs for identifying trends and patterns
 - Data cleaning and transformation using Power Query
-- DAX measures for calculating important metrics
+  
 
 ## Key Questions Explored
 
